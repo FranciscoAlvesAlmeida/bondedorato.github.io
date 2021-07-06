@@ -1,0 +1,12 @@
+html, body {
+    min-height: 100%;
+}
+body{
+    background-image: url(rapaziadinha.jpeg);
+    margin: auto;
+}
+p {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 400%;
+}
